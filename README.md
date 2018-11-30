@@ -1,0 +1,1 @@
+Landing page made in the bootstrap 4 course on the Platzi platform.
